@@ -1,0 +1,1 @@
+# bitnovex-pools-json
