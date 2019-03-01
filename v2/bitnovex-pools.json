@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "name": "BitNovex Pool Official",
+      "url": "http://pool.bitnovex.com/",
+      "api": "http://pool.bitnovex.com:8233/",
+      "type": "node.js",
+      "miningAddress": "pool.bitnovex.com"
+    },
+    {
+      "name": "SuperBlockchain Pool",
+      "url": "https://superblockchain.con-ip.com/btnx",
+      "api": "https://superblockchain.con-ip.com:8013",
+      "type": "node.js",
+      "miningAddress": "superblockchain.con-ip.com"
+    }
+  ]
+}
